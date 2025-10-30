@@ -41,5 +41,35 @@ export const MinistryMembers=[
    lastName: 'Hinguillo',
    currentMassSchedule:[5]
 },
+{
+   id: 'a8',
+   firstName:'Hans Adam',
+   lastName: 'Oregas',
+   currentMassSchedule:[1]
+},
+{
+   id: 'a9',
+   firstName:'Sean Andrei',
+   lastName: 'Oregas',
+   currentMassSchedule:[1]
+},
+{
+   id: 'a10',
+   firstName:'Prince Adam',
+   lastName: 'Guevarra',
+   currentMassSchedule:[2]
+},
+{
+   id: 'a11',
+   firstName:'Kelvin',
+   lastName: 'Pradas',
+   currentMassSchedule:[3]
+},
+{
+   id: 'a12',
+   firstName:'Albert Finn',
+   lastName: 'Delos Santos',
+   currentMassSchedule:[4]
+},
 
 ];
